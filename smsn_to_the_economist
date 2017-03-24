@@ -1,0 +1,23 @@
+I love The Economist. You traffic in huge quantities of critical information. I imagine that it is complex.
+
+I want to tell you about some free software[1], simpler than Microsoft Word, that allows a writer (or a student, a manager, anyone) to collect, order and process more semantic data than has been previously possible.
+
+I'm not talking about numbers. Everyone uses semantic data: It's what we speak, and what we write.
+
+Until recently there were only two widely applicable ways to organize writing: As a list, or as a tree. Outlines, Wikipedia articles and computer filesystems are examples of trees. A tree is just a list of lists of lists of ...
+
+Lists and trees are both prone to information overload. Trees can handle more information than flat lists: The genius of a tree is that when the list gets too long to navigate easily, you can divide it into sublists. The problem with solving every problem with division, though, is that it creates a huge number of "places" for data to "be", which makes it possible to lose things. You might be working in one place, and unaware that more helpful data lies elsewhere, because the path between them is long.
+
+By using a graph instead of a tree, data that belong close together never have to be far apart.
+
+Semantic Synchrony is a free text editor for graphs. It's easy to use -- it's just like writing lists of text, except each thing you write can belong to any of the others. For instance, if you wanted to file the same statement under "China", "freedom of speech", "international law", and "things to ask readers about", you could do it. You could edit it from any of those contexts, and the edits would carry to the other contexts.
+
+Semantic Synchrony also offers sharing, and privacy: Shared items can be members of private items, and vice versa. Private items are visible only to their author. (In fact it's more granular than that.) Joshua Shinavier, who created Semantic Synchrony, and I have connected our knowledge bases this way.
+
+Semantic Synchrony is merely one instance of "semantic web" software. It is to our knowledge unique, however, in that it lets a user maintain an arbitrary graph without requiring any programming experience.
+
+The Economist does invaluable work. If I convinced merely one of your reporters to adopt it, I would be elated.
+
+I am a data scientist in Los Angeles. I could demonstrate the software via video chat on little notice.
+
+[1] https://github.com/joshsh/smsn

@@ -1,0 +1,17 @@
+Semantic Synchrony for writers
+--
+Everyone handles semantic data: It's what we speak, and what we write.
+
+Writing is a mechanical discovery aid. It is uniquely valuable, because it lets us navigate accumulations of semantic data quickly. By simply collecting notes, and reviewing them, selecting them, refining them, learning happens automatically.
+
+Until recently there were only two widely applicable ways to organize writing: As a list, or as a tree. (Outlines, Wikipedia articles and computer filesystems are examples of trees. A tree is just a list of lists of lists of ...)
+
+Lists and trees are both prone to information overload. Trees can handle more information than flat lists: The genius of a tree is that when a list gets too long to navigate easily, you can divide it into sublists. The problem with solving every organization problem with division, though, is that it creates a huge number of "places" for data to "be", making it possible to lose things. You might be working with data somewhere, and unaware that more helpful data lies elsewhere, because the path between them is long.
+
+By using a graph instead of a tree, data that belong close together never have to be far apart.
+
+Semantic Synchrony is free software for doing that. It is a text editor for graphs. And it is is easy to use -- just like writing lists of text, except each thing you write can belong to any of the others.
+
+*** also describe existing privacy levels, targeted sharing features ***
+
+[1] https://github.com/joshsh/smsn
