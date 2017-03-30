@@ -7,7 +7,7 @@ experience
     fun
       motion
       math
-        out of phase \ funny
+        out of phase :: funny
       surprise
   time
     Selves and stories are timeless.
@@ -15,10 +15,10 @@ experience
     things in time
       motion
       age
-        of flower
-        of country
-        of earth
-    measure progress \ disagreement
+        a flower
+        a nation
+        space
+    measure progress :: disagreement
     surprise ? time
     conflict ? time
  
