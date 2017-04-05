@@ -1,4 +1,4 @@
-# To coders, a Semantic Synchrony pre-release invitation
+# A Semantic Synchrony pre-release invitation to coders
 
 Semantic Synchrony is a knowledge graph server with an Emacs front end. Here[1] is a brief list of some of its many cool features. The wiki[2] is well-documented and friendly; it even includes demonstration videos. The server code is Java, and the front end code is Emacs Lisp. We want to incorporate Eta, a flavor of Haskell that compiles to the JVM.
 
