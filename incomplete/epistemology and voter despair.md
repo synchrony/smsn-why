@@ -1,3 +1,5 @@
+[Why the argument is incomplete: Semantic Synchrony might currently allow only small technologically savvy groups who trust each other to share a knowledge base.]
+
 Voter apathy is, largely, despair in social epistemology.
 
 In private epistemology, almost everyone seems to have faith. You come to know what you know, somehow, and you believe that you did it the right way. Even if you don't remember how you made them, you tend to think your beliefs have good foundations.
@@ -6,10 +8,8 @@ In social epistemology there is widespread despair. People give up on investigat
 
 People write good things! And sharing information is why humans have so much power! It lets us build on each others' work. Science is the spread of ideas, based on trust.
 
-Locally (family, neighbors, etc.), trut is pretty solid. But at large scales (politics, science, history), our trust is in trouble.
+Locally (family, neighbors, etc.), trust is pretty solid. But at large scales (politics, science, history), our trust is in trouble.
 
-We need a system that easily lets us check claims. A knowledge platform to which one can ask, "What has [Donald Trump] said about [how to treat people]?" "What do [Democrats] want the [price of education] to be?" "Who has disputed [claim]?" "What evidence did they use when [someone] said [something]?"
+We need a system that easily lets us check claims. A knowledge platform to which one can ask, "What has [public figure] said about [civic responsibility]?" "What do [Democrats] want the [price of education] to be?" "Who has disputed [claim]?" "What evidence did they use when [someone] said [something]?"
 
-A blockchain-style wikipedia without anonymity.
-
-RDF can represent this kind of data. So can the reflective set of labeled tuples, which is simpler and more general but less popular than RDF.
+Semantic Synchrony is an easy way to share knowledge.
