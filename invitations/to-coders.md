@@ -1,6 +1,6 @@
 # Semantic Synchrony: An invitation to coders
 
-Semantic Synchrony is a knowledge graph server with an Emacs front end. Here is a brief sample of its many [cool features]((https://github.com/synchrony/smsn/wiki/SmSn's-features-in-250-words). The [wiki]([2] https://github.com/synchrony/smsn/wiki) is thorough and friendly; it even includes demonstration videos.
+Semantic Synchrony is a knowledge graph server with an Emacs front end. Here is a brief sample of its many [cool features](https://github.com/synchrony/smsn/wiki/SmSn's-features-in-250-words). The [wiki](https://github.com/synchrony/smsn/wiki) is thorough and friendly; it even includes demonstration videos.
 
 The software is already powerful. We seek coders who want to make it more powerful yet.
 
