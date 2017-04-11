@@ -2,7 +2,7 @@
 
 [Semantic Synchrony](github.com/synchrony/smsn/) serves a knowledge graph to an [Emacs](gnu.org/software/emacs/) front-end running [smsn-mode](github.com/synchrony/smsn-mode/). Your graph can be selectively shared as a set of [Git](git-scm.com/) repositories; if so, their full git history is available within the front-end. The graph can be viewed as trees, traversed stepwise, and searched for keywords using boolean logic, using the [Apache Lucene](lucene.apache.org/core/) query language.
 
-The Emacs front end is simple, resembling an ordinary text editor, requiring only [25 commands](github.com/synchrony/smsn-mode/wiki/Some-critical-shortcuts) to learn. More front-ends are possible; the server communicates using simple JSON.
+The front end is simple, resembling an ordinary text editor, requiring no familiarity with Emacs and only [25 commands](github.com/synchrony/smsn-mode/wiki/Some-critical-shortcuts) to learn. More front-ends are possible; the server communicates using simple JSON.
 
 The graph can also be directly [accessed via Gremlin Console](github.com/synchrony/smsn/wiki/Gremlin-on-the-Graph). Gremlin is a metalanguage for graph programming, part of Apache Tinkerpop. (If they change the details of Neo4j or Titan, and you write something in Gremlin, your code is safe.)
 
