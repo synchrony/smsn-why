@@ -1,6 +1,6 @@
 # Semantic Synchrony: An invitation to coders
 
-[Semantic Synchrony](http://www.github.com/synchrony/smsn/) serves a knowledge graph to an [Emacs](http://www.gnu.org/software/emacs/) front-end running [smsn-mode](github.com/synchrony/smsn-mode/). Your graph can be selectively shared as a set of [Git](http://www.git-scm.com/) repositories; if so, their full git history is available within the front-end. The graph can be viewed as trees, traversed stepwise, and searched for keywords using boolean logic, using the [Apache Lucene](https://lucene.apache.org/core/) query language.
+[Semantic Synchrony](http://www.github.com/synchrony/smsn/) serves a knowledge graph to an [Emacs](http://www.gnu.org/software/emacs/) front-end running [smsn-mode](http://github.com/synchrony/smsn-mode/). Your graph can be selectively shared as a set of [Git](http://www.git-scm.com/) repositories; if so, their full git history is available within the front-end. The graph can be viewed as trees, traversed stepwise, and searched for keywords using boolean logic, using the [Apache Lucene](https://lucene.apache.org/core/) query language.
 
 The front end is simple, resembling an ordinary text editor, requiring no familiarity with Emacs and only [25 commands](https://github.com/synchrony/smsn-mode/wiki/Some-critical-shortcuts) to learn. More front-ends are possible; the server communicates using simple JSON.
 
