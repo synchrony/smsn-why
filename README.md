@@ -8,4 +8,4 @@ A knowledge graph has as many uses as pen and paper: It can be a calendar, a not
 
 If you choose, Semantic Synchrony lets you and others join your plans, your studies, your philosophy, your art -- any expressible thing. You can force yourself to share everything with someone (untested), or you can share only what you choose.
 
-It can even be "integrated" with the [experience of meditation](https://github.com/synchrony/smsn-why/blob/master/contemplation%2C%20expression%2C%20and%20transcendance.md). Using a knowledge graph can feel like creating and meditating on mandalas -- practical ones like grocery lists, or deep ones like notes about the nature of the self.
+Surfing a knowledge graph can even be "integrated" with the [experience of meditation](https://github.com/synchrony/smsn-why/blob/master/contemplation%2C%20expression%2C%20and%20transcendance.md). Using it can feel like creating and meditating on mandalas -- practical ones like grocery lists, or deep ones like notes about the nature of the self.
