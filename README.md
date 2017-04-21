@@ -1,6 +1,11 @@
-# Get psyched about mapping information!
+# Get psyched about mapping knowledge!
 
-This repository is a collection of:
-* Praise and testimony in support of knowledge graphs.
-* Hopes and imagination centered around knowledge graphs.
-* Outreach materials.
+Semantic Synchrony lets anyone edit and use a knowledge graph. That's what Google, Siri, Alexa and others use to answer questions about the world.
+
+A knowledge graph lets you express, connect and view any kind of natural language data -- "Who needs what from me by Monday?" "What have scientists said about global warming?" "What are some true stories that illustrate the value of being kind?"
+
+A knowledge graph has as many uses as pen and paper: It can be a calendar, a notebook for studies, a web of quotations, a diary, an artist's sketchpad, a collection of overlapping hierarchies. Things in the graph are linked, and there is a search engine, and it integrates with your web browser.
+
+If you choose, Semantic Synchrony lets you and others join your plans, your studies, your philosophy, your art -- any expressible thing. You can force yourself to share everything with someone (untested), or you can share only what you choose.
+
+It can even be "integrated" with the [experience of meditation](https://github.com/synchrony/smsn-why/blob/master/contemplation%2C%20expression%2C%20and%20transcendance.md). Using a knowledge graph can feel like creating and meditating on mandalas -- practical ones like grocery lists, or deep ones like notes about the nature of the self.
