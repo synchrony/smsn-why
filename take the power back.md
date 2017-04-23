@@ -1,4 +1,4 @@
-# Take the power back!
+# Take the power back! Build a knowledge graph!
 
 [Semantic Synchrony](http://www.github.com/synchrony/smsn/wiki) is an open-source knowledge graph editor. The knowledge graph is what lets Google, Siri, WolframAlpha, probably the CIA, and others answer questions about the world. Unlike those systems, this one is easy to use -- much easier than Microsoft Word or Minecraft.
 
