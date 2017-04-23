@@ -8,4 +8,6 @@ The knowledge graph is a cooperative game of reading and writing. It lets the se
 
 Our knowledge graph is an inclusive community. If you think an expression deserves to exist, there is surely a good place for it -- often more than one. (You might have to create the place, but once you do it can exist forever.) Whatever it is -- fact or fiction, logic or emotion, art or science, analysis, criticism, questions, answers, dreams -- we can process them together.
 
-Or alone! Inner, private work can be the deepest. Semantic Synchrony offers granular sharing: Some things can be private, others shared with close friends, others with everyone -- whatever combinations you could need.
+Or do it alone! Inner, private work can be the deepest. Semantic Synchrony offers granular sharing: Some things can be private, others shared with close friends, others with everyone -- whatever combinations you could need.
+
+Or [make your own knowledge graph community](https://github.com/synchrony/git-smsn)! Semantic Synchrony is free, open-source software. There is no paid version.
