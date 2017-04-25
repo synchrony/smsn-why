@@ -18,15 +18,15 @@ The graph query language is Gremlin.
 
 ## Data model in flux
 
-The model is expanding from a graph with unlabeled edges to one with optional edge labels. Nodes can serve double-duty as edge-labels.
+Good news! If you want, there are big conceptual changes you could be a part of!
 
-Nodes used to have to be plain text, but now they can be markdown as well. The graph model and the text model are evolving intertwined: Markdown headings are a vehicle for labeling edges.
+The model is expanding from a graph with unlabeled edges to one with optional edge labels. Labeled edges can be created as Markdown headings, and nodes can serve double-duty as edge-labels.
 
 The concept of a source of data is expanding. It used to have to be a graph, but now it includes git repositories, and more forms are on the way.
 
 ## It's not as much code as it appears
 
-The Emacs client, [smsn-mode](https://github.com/synchrony/smsn-mode), is small. The server, [smsn](https://github.com/synchrony/smsn), looks big, but much of smsn is experimental stuff that nobody really uses.
+The Emacs client, [smsn-mode](https://github.com/synchrony/smsn-mode), is small. The server, [smsn](https://github.com/synchrony/smsn), looks big, but much of that is experimental stuff nobody really uses.
 
 ## Contact us
 
