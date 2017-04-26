@@ -2,7 +2,7 @@
 
 [Semantic Synchrony](http://www.github.com/synchrony/smsn/wiki/) serves a knowledge graph. Graphs can be selectively shared as a set of [Git](http://www.git-scm.com/) repositories; if so, their full git history is available within the front-end. The graph can be viewed as trees, traversed stepwise, and searched for keywords using boolean logic, using the [Apache Lucene](https://lucene.apache.org/core/) query language.
 
-Here is a brief sample of Semantic Synchrony's many [cool features](https://github.com/synchrony/smsn/wiki/SmSn's-features-in-250-words). The [wiki](https://github.com/synchrony/smsn/wiki) is thorough and friendly; there are even demonstration videos.
+Here is a brief sample of Semantic Synchrony's many [cool features](https://github.com/synchrony/smsn/wiki/SmSn's-features-in-250-words). The [wiki](https://github.com/synchrony/smsn/wiki) is thorough and friendly, and there are [videos](https://github.com/synchrony/smsn/wiki/A-video-introduction-to-Semantic-Synchrony).
 
 More front-ends are possible; the server communicates using simple JSON. [smsn-mode](http://github.com/synchrony/smsn-mode/), the [Emacs](http://www.gnu.org/software/emacs/) font-end, resembles an ordinary text editor. It requires no familiarity with Emacs, and only [25 commands](https://github.com/synchrony/smsn-mode/wiki/Some-critical-shortcuts) to use.
 
