@@ -1,12 +1,12 @@
 # Semantic Synchrony: An invitation to coders
 
-[Semantic Synchrony](http://www.github.com/synchrony/smsn/wiki/) serves a knowledge graph to an [Emacs](http://www.gnu.org/software/emacs/) front-end running [smsn-mode](http://github.com/synchrony/smsn-mode/). Your graph can be selectively shared as a set of [Git](http://www.git-scm.com/) repositories; if so, their full git history is available within the front-end. The graph can be viewed as trees, traversed stepwise, and searched for keywords using boolean logic, using the [Apache Lucene](https://lucene.apache.org/core/) query language.
-
-The front end is simple, resembling an ordinary text editor, requiring no familiarity with Emacs and only [25 commands](https://github.com/synchrony/smsn-mode/wiki/Some-critical-shortcuts) to learn. More front-ends are possible; the server communicates using simple JSON.
-
-The graph can also be directly [accessed via Gremlin Console](https://github.com/synchrony/smsn/wiki/Gremlin-on-the-Graph). Gremlin is a metalanguage for graph programming, part of Apache Tinkerpop. (If they change the details of Neo4j or Titan, and you write something in Gremlin, your code is safe.)
+[Semantic Synchrony](http://www.github.com/synchrony/smsn/wiki/) serves a knowledge graph. Graphs can be selectively shared as a set of [Git](http://www.git-scm.com/) repositories; if so, their full git history is available within the front-end. The graph can be viewed as trees, traversed stepwise, and searched for keywords using boolean logic, using the [Apache Lucene](https://lucene.apache.org/core/) query language.
 
 Here is a brief sample of Semantic Synchrony's many [cool features](https://github.com/synchrony/smsn/wiki/SmSn's-features-in-250-words). The [wiki](https://github.com/synchrony/smsn/wiki) is thorough and friendly; there are even demonstration videos.
+
+More front-ends are possible; the server communicates using simple JSON. [smsn-mode](http://github.com/synchrony/smsn-mode/), the [Emacs](http://www.gnu.org/software/emacs/) font-end, resembles an ordinary text editor. It requires no familiarity with Emacs, and only [25 commands](https://github.com/synchrony/smsn-mode/wiki/Some-critical-shortcuts) to use.
+
+Our shared graph can also be directly [accessed via Gremlin Console](https://github.com/synchrony/smsn/wiki/Gremlin-on-the-Graph). Gremlin is a metalanguage for graph programming, part of Apache Tinkerpop. (If they change the details of Neo4j or Titan, and you write something in Gremlin, your code is safe.)
 
 ## Languages
 
@@ -17,8 +17,6 @@ The graph query language is Gremlin.
 [Markdown](https://daringfireball.net/projects/markdown/syntax) is becoming critical to the data model, as is described next.
 
 ## Data model in flux
-
-Good news! If you want, there are big conceptual changes you could be a part of!
 
 The model is expanding from a graph with unlabeled edges to one with optional edge labels. Labeled edges can be created as Markdown headings, and nodes can serve double-duty as edge-labels.
 
