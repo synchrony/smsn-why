@@ -32,4 +32,4 @@ We are only two developers right now. You could have a huge impact.
 
 ## Contact us
 
-We would love to hear from you. Find us on [Github](https://github.com/synchrony), [Gitter](https://gitter.im/synchrony), or [Facebook](https://facebook.com/semanticsynchrony).
+I mean, you don't have to, but we would love to hear from you. Find us on [Github](https://github.com/synchrony), [Gitter](https://gitter.im/synchrony), or [Facebook](https://facebook.com/semanticsynchrony).
