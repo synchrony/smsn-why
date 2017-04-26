@@ -28,6 +28,8 @@ The concept of a source of data is expanding. It used to have to be a graph, but
 
 The Emacs client, [smsn-mode](https://github.com/synchrony/smsn-mode), is small. The server, [smsn](https://github.com/synchrony/smsn), looks big, but much of that is experimental stuff nobody really uses.
 
+We are only two developers right now. You could have a huge impact.
+
 ## Contact us
 
 We would love to hear from you. Find us on [Github](https://github.com/synchrony), [Gitter](https://gitter.im/synchrony), or [Facebook](https://facebook.com/semanticsynchrony).
