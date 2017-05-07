@@ -12,4 +12,4 @@ You deserve a knowledge graph, private but woven into the Internet, where you ca
 
 You don't have to share any of it. (Shared graphs in Semantic Synchrony offer selective privacy, so you can share just the parts you want to share.)
 
-There is great power in sharing. A shared knowledge graph is a shared set of memories, that each member navigates and adds to in their own way. It feels very different from a shared book, because everyone reads the book in the same order. It can [feel like flying](http://www.github.com/synchrony/smsn-why/the-best-game.md), or ping-pong, or meditation, or science.
+There is great power in sharing. A shared knowledge graph is a shared set of memories, that each member navigates and adds to in their own way. It feels very different from a shared book, because everyone reads the book in the same order. It can [feel like flying](http://www.github.com/synchrony/smsn-why/the-best-game.md), or ping-pong, or [meditation](http://www.github.com/synchrony/smsn-why/contempl, expr, transc.md), or science.
