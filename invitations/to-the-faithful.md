@@ -10,6 +10,6 @@ Faith is vague too because it concerns high, abstract principles: Faith is not a
 
 You deserve a knowledge graph, private but woven into the Internet, where you can read and write about concepts like that.
 
-You don't have to share any of it. (Shared graphs in Semantic Synchrony offer selective privacy, so you can share just the parts you want to share.)
+You don't have to share any of it. (Shared graphs in [Semantic Synchrony](http://www.github.com/synchrony/smsn/wiki) offer selective privacy, so you can share just the parts you want to share.)
 
 There is great power in sharing. A shared knowledge graph is a shared set of memories, that each member navigates and adds to in their own way. It feels very different from a shared book, because everyone reads the book in the same order. It can [feel like flying](https://github.com/synchrony/smsn-why/blob/master/the-best-game.md), or ping-pong, or [meditation](https://github.com/synchrony/smsn-why/blob/master/contempl%2C%20expr%2C%20transc.md), or science.
