@@ -1,6 +1,8 @@
 
 ## Peace, expression, and Semantic Synchrony
 
+(Note to authors: Edit this not in the wiki, but rather in the graph, at :4z57OdCUi0EwAHVV:.)
+
 All human information-processing states are valid -- stillness, observation, memory, imagination, expression (writing), search (reading), sharing.
 
 # meditation as inner stillness
