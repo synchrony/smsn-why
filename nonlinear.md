@@ -1,10 +1,14 @@
+(This article is not finished.)
+
 # Now anyone can process information nonlinearly!
 
 We already think nonlinearly. Emotions, for instance, are nonlinear: When you see someone make a face, you process (fast, and in no particular order) dozens of related interpretations, motivations, explanations, and responses possible for why they made the face. The brain is a giant, beautiful web of concepts. So is reality itself.
 
 Spoken and written words, however, are linear. Every expression except the last is followed by another.
 
-The reader sometimes feels this, like a bad authority problem. The author chooses the reader's path. In a graph, it's tables of contents all the way down -- and they can overlap and go in circles if you want. That lets you target the information you care about faster.
+The reader sometimes feels this, like a bad authority problem. The author chooses the reader's path. In a graph, it's tables of contents all the way down -- and they can overlap and go in circles if you want.
+
+A graph is flexible. Anything can be one step away from anything else. That lets you target the information you care about faster.
 
 A knolwedge graph allows users to write, process, and share nonlinear collections of ideas. It is (1) a powerful discovery tool, (2) a better way to share knowledge, (3) deep soul medicine, (4) easy to use. Next I will address each of those claims.
 
@@ -52,12 +56,8 @@ The order of words spoken or written is the order of words heard or read.
 ### Don't get left behind!
 Google, Siri, WolframAlpha and others use knowledge graphs to answer questions about the world.
 
-
 They tend to hide most of that knowledge jealosly.
 
-People are stupid, and stupid people make bad decisions.
+We could learn faster. There is stupidity, and it leads to bad decisions. Writing  (linear or nonlinear), reading, organizing and sharing notes is a mechanical study aid that works.
 
 Knowledge is wasted in private.
-
-Learning is too slow.
-
