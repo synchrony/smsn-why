@@ -27,7 +27,7 @@ Once an idea is expressed in words, it can be recorded, and grouped with other e
 
 ## fluidity, humility, and detachment
 
-Sometimes there is a goal, and sometimes there is none. Sometiomes the goal is simply to feel. Sometimes it is to express and record; sometimes it is to read, discover and use information from yourself and others. What you have written, and what exists on the internet, are both valid objects of inquiry, and Semantic Synchrony lets you join those two webs.
+Sometimes there is a goal, and sometimes there is none. Sometimes the goal is simply to feel. Sometimes it is to express and record; sometimes it is to read, discover and use information from yourself and others. What you have written, and what exists on the Internet, are both valid objects of inquiry, and Semantic Synchrony lets you join those two webs.
 
 Process an idea until it is done, rewriting it and connecting it to others. Then zoom out, consider the mandala of surrounding expressions. Whatever the previous focus was, the mind can now wander across a convenient list of its neighbors. Or jump to something farther away in the graph, using text search. Or ignore the recorded data altogether, returning to inner stillness.
 

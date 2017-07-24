@@ -1,4 +1,6 @@
 
+(Note to authors: Edit this document not in the wiki, but rather in the graph, at :JwGnhoHw23PfCIyp:.)
+
 # Nonlinear text is easier to organize
 
 Sometimes things need to be used together. We would like them to be found in the same place, or at least close to each other. A graph makes that easier.
